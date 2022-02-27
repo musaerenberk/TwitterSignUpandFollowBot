@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TwitterBot"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="88,337">
+    <properties></properties>
+
+
+
+            <testcase
+                name="IssueTestA"
+                time="88,337"
+                classname="Test.TwitterTest">
+            </testcase>
+</testsuite>

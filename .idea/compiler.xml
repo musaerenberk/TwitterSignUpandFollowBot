@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TwiiterBot" />
+        <module name="otomasyon" />
+        <module name="berk-test-automation" />
+        <module name="automation6.8.9_testselin" />
+        <module name="AutomationTeststaf" />
+        <module name="TwitterBot" />
+        <module name="automation6.8.9" />
+        <module name="testotomasyon_basic-main" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+By receiving a temporary e-mail to Twitter, registers with the confirmation code and follows the specified account!
